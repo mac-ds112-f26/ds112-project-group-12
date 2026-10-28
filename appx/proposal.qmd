@@ -24,7 +24,7 @@ Communication Plan:
 We will communicate through messages and have a response time of less than an hour. We will be in constant communication since we are roommates. We will aim to meet twice a week for 1-2 hours on Tuesdays and Thursdays (8 pm-10 pm)
 
 Roles:
-Luis (Responsible for contacting preceptors/proffesors, Style lead)
+Luis (Responsible for contacting preceptors/profesors, Style lead)
 David (Technical lead, Style lead)
 
 Conflict Resolution:
