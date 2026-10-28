@@ -1,5 +1,35 @@
 ---
 title: "Proposal"
 ---
+Title:
+Tracking how efficient the Golden State Warriors were during the 2015-15 NBA Regular Season
 
-Your proposal go here.
+Team Member Names:
+David Acuna, Luis Gonzalez-Xochihua
+
+Short Description:
+We will be tracking how efficient the historic Golden State Warriors season was during the NBA season; we will track how effective they were at scoring, the point differential, and what made them such a successful team.
+
+2-3 broad research questions:
+How effective were the 2015-2016 Golden State Warriors in the Regular Season in scoring? 
+How were the Warriors able to sustain high offensive and defensive ratings in efficiency while putting up one of the fastest paces in the league?
+
+Reason/Inspiration for Project:
+We are both big fans of the sport, and the Golden State Warriors were one of our favorite teams growing up. They also stand out as an anomaly due to their outstanding season, which would make it interesting to analyze.
+
+One potential data set:
+https://r-universe.dev/datasets (2015-2016 Golden State Warriors Package: Lock5Data)
+
+Communication Plan:
+We will communicate through messages and have a response time of less than an hour. We will be in constant communication since we are roommates. We will aim to meet twice a week for 1-2 hours on Tuesdays and Thursdays (8 pm-10 pm)
+
+Roles:
+Luis (Responsible for contacting preceptors/proffesors, Style lead)
+David (Technical lead, Style lead)
+
+Conflict Resolution:
+If either person misses a deadline, we will communicate ahead of time about how to fix it, try to avoid it happening, and reach out to the professor. We will split 50/50 depending on who has done more work on average.
+
+Rough implementation plan:
+We will target doing 1 milestone per week beginning now (if we can do more than 1, then we will). Work will be split equally between both when reaching milestones.
+
