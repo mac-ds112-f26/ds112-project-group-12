@@ -1,5 +1,20 @@
 ---
 title: "Case Study"
+
 ---
 
-Your case study go here.
+We are doing Women's Pockets Are inferior report for our Case Study: 
+
+- The data structures really stand out, it shows the front pockets of Women and Men and it compares over 80 years.
+-  I noticed it changes colors to help define the average size of pockets for both Men and Women and it looks detailed as it compares hand and hand with a caption talking about it more. 
+- Towards the end of the page, it presents options of different pockets of different jeans for both men and women and how it compares against other items like phones or wallets. It shows different jeans companies that make for both gender and how different items compared to each in a clean-presentable way for the audience. 
+- At the end it compares the different type of pocket jeans that there are with straight, skinny as well talks about back pockets in presentable way for me the reader could understand what is talking about. 
+- The report unfolded in a clear-manner, it added information at the top to talk about jeans like in today's world before diving into visualizations of jeans' pockets that made it clear and simple for the reader to see.
+- Each section of the data report presented a new caption to tell what it's about before going on to present visualizations. 
+- I noticed there are a lot of color-coded sections and drop-down buttons to help make the reader navigate easier and have it see the different visualization in the data report like different jeans pockets as an example. 
+- It also produced methods on how they did the method for anyone else want to make it something similar
+- Overall, it presented a professional way to present data from the different visualizations and captions for viewers to tell what's going on with jeans and pockets and it relays the message in a great way. 
+
+
+
+Reference: Diehm, J., & Thomas, A. (2018). Women’s pockets are inferior. The Pudding. https://pudding.cool/2018/08/pockets/
