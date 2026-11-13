@@ -1,7 +1,7 @@
 ---
 title: "Proposal"
 ---
-Title:
+## Title:
 Tracking how efficient the Golden State Warriors were during the 2015-15 NBA Regular Season
 
 Team Member Names:
@@ -10,14 +10,14 @@ David Acuna, Luis Gonzalez-Xochihua
 Short Description:
 We will be tracking how efficient the historic Golden State Warriors season was during the NBA season; we will track how effective they were at scoring, the point differential, and what made them such a successful team.
 
-2-3 broad research questions:
+## Research Questions
 How effective were the 2015-2016 Golden State Warriors in the Regular Season in scoring? 
 How were the Warriors able to sustain high offensive and defensive ratings in efficiency while putting up one of the fastest paces in the league?
 
-Reason/Inspiration for Project:
+## Inspiration
 We are both big fans of the sport, and the Golden State Warriors were one of our favorite teams growing up. They also stand out as an anomaly due to their outstanding season, which would make it interesting to analyze.
 
-One potential data set:
+## Potential Dataset
 https://r-universe.dev/datasets (2015-2016 Golden State Warriors Package: Lock5Data)
 
 Communication Plan:
