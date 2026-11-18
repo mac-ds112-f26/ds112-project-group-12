@@ -1,5 +1,34 @@
 ---
-title: "Member 1 First Name & Last Name Initial"
+title: "Member 1 Luis G.X"
 ---
 
 Your exploratory data analysis of the team datasets go here.
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(Lock5Data)
+data(GSWarriors2016)
+
+
+```
+
+```{r}
+GSWarriors2016 |> 
+  tabyl(Win)
+```
+```{r}
+GSWarriors2016 |>
+     tabyl(Location, Win)
+```
+```{r}
+GSWarriors2016 |>
+    tabyl(Opp, Win) |>
+    adorn_totals(c("row", "col")) |>
+    arrange(desc(W))
+```
+```{r}
+GSWarriors2016 |>
+    filter(Date == "1/11/2016") |>
+    tabyl(Opp, Win, Date,  show_missing_levels = FALSE) 
+```
