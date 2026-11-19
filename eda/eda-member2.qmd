@@ -1,5 +1,48 @@
 ---
-title: "Member 2 First Name & Last Name Initial"
+title: "David A"
 ---
 
 Your exploratory data analysis of the team datasets go here.
+
+```{r}
+library(tidyverse)
+library(Lock5Data)
+data(GSWarriors2016)
+```
+
+```{r}
+
+library(DataExplorer)
+```
+
+```{r}
+introduce(GSWarriors2016)
+```
+
+```{r}
+plot_intro(GSWarriors2016)
+```
+
+```{r}
+plot_bar(GSWarriors2016)
+```
+
+
+```{r}
+plot_histogram(GSWarriors2016)
+```
+
+```{r}
+plot_density(GSWarriors2016)
+```
+
+```{r}
+plot_qq(GSWarriors2016)
+```
+
+```{r}
+plot_correlation(GSWarriors2016)
+```
+
+
+
